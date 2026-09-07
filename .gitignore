@@ -1,0 +1,9 @@
+# Streamlit敏感配置(含Turso令牌), 严禁提交
+.streamlit/secrets.toml
+
+# Python运行产物
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/

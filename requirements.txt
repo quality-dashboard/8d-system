@@ -1,0 +1,8 @@
+# 8D客诉整改跟踪系统 依赖清单
+# 运行环境: Python 3.9（本机 3.9.25 已验证）
+# 安装:  pip install -r requirements.txt
+# 说明: 只给下限版本, 不锁上限, 避免以后升级被卡住
+
+streamlit>=1.37.1
+pandas>=2.2.3
+plotly>=5.24.1
